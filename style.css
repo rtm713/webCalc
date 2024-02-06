@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(42, 42, 42);
+}
+
+#calcBox {
+    display: flex;
+    width: 30vw;
+    height: 80vh;
+    background-color: red;
+}
+
+#buttonBox button{
+    width: 30%;
+}
